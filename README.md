@@ -1,2 +1,5 @@
-# Calculadora-Exemplo
+# Calculadora
+
+#Função de Subtração Adicionada
+
 ![Calculadora](./Calc.png)
